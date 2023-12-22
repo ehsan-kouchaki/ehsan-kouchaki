@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ehsan-kouchaki
-- 👀 I’m interested in artifitial intelligence  
+- 👀 I’m interested in Artificial Intelligence  
 - 🌱 I’m currently learning reinforcement learning
-- 💞️ I’m looking to collaborate on machine learning projects
-- 📫 How to reach me : my email address is ekouchaki@us.es
+- 💞️ I’m looking to collaborate on Machine Learning projects
+- 📫 How to reach me: my email address is ekouchaki@us.es
 
 <!---
 ehsan-kouchaki/ehsan-kouchaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
